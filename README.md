@@ -3,7 +3,6 @@
   
 [![React](https://img.shields.io/badge/React-19.1.1-blue?logo=react&logoColor=white)](https://reactjs.org/)
 [![Vite](https://img.shields.io/badge/Vite-7.1.6-green?logo=vite&logoColor=white)](https://vitejs.dev/)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-4.1.13-teal?logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
 [![EmailJS](https://img.shields.io/badge/EmailJS-email-orange)](https://www.emailjs.com/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow)](LICENSE)
 [![Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-000?logo=vercel&logoColor=white)](https://your-vercel-deployment-link.vercel.app) </div>
