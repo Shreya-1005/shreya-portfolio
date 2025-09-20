@@ -88,7 +88,7 @@ const Contact = () => {
               <Mail size={16} />
               {loading ? 'SENDING...' : 'SEND MESSAGE'}
             </button>
-            {success && <p style={{ marginTop: '1rem', color: 'var(--lime)' }}>{success}</p>}
+            {success && <p style={{ marginTop: '1rem', color: 'var(--lime)', fontSize: '0.7rem'}}>{success}</p>}
           </form>
         </div>
       </div>
