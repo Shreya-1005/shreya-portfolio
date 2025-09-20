@@ -31,7 +31,7 @@ const About = () => {
             <p>Hey!</p>
             <p>I'm a sophomore in B.Tech – Computer Science & AI. I love building things with code, whether it's a sleek web app, a small AI model, or a fun interactive experience.</p>
             <p>I enjoy solving problems creatively, learning from projects and hackathons, and collaborating with others who are just as passionate about technology.</p>
-            <p>When I'm not coding, I'm exploring new tools, experimenting with UI/UX designs, or just vibing to some lo-fi beats while planning my next project.</p>
+            <p>When I'm not coding, You will find me exploring new tools, experimenting with UI/UX designs, or just vibing to the latest songs.</p>
           </div>
         </div>
       </div>
