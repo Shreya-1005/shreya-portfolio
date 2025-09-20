@@ -45,17 +45,14 @@ const Contact = () => {
 
           {/* Icon Buttons */}
           <div className="contact-buttons">
-            <a href="mailto:shreya.srivastava@example.com" className="icon-btn" title="Email Me">
+            <a href="mailto:shreeja.srivastava2005@gmail.com" className="icon-btn" title="Email Me">
               <Mail size={24} />
             </a>
-            <a href="https://github.com/shreya" className="icon-btn" target="_blank" rel="noopener noreferrer" title="GitHub">
+            <a href="https://github.com/shreya-1005" className="icon-btn" target="_blank" rel="noopener noreferrer" title="GitHub">
               <Github size={24} />
             </a>
-            <a href="https://linkedin.com/in/shreya" className="icon-btn" target="_blank" rel="noopener noreferrer" title="LinkedIn">
+            <a href="https://www.linkedin.com/in/shreya-srivastava-780341314/" className="icon-btn" target="_blank" rel="noopener noreferrer" title="LinkedIn">
               <Linkedin size={24} />
-            </a>
-            <a href="/path-to-your-cv.pdf" className="icon-btn btn-download" download title="Download CV">
-              <Download size={24} />
             </a>
           </div>
         </div>

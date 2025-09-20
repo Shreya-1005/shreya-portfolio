@@ -27,7 +27,7 @@ const Projects = () => {
       description: "My personal portfolio website showcasing my projects, skills, and contact information, designed with interactive UI elements and smooth animations.",
       status: "COMPLETED",
       color: "#3cff6b",
-      link: "",
+      link: "https://github.com/Shreya-1005/ShreyaOS",
     },
     {
       title: "Fake News Detection",
