@@ -1,4 +1,4 @@
-# Shreya Srivastava Portfolio
+# Portfolio
 <div align = 'center'>
   
 [![React](https://img.shields.io/badge/React-19.1.1-blue?logo=react&logoColor=white)](https://reactjs.org/)
